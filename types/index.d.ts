@@ -1,0 +1,1 @@
+/// <reference path="googleapis/index.d.ts" />
